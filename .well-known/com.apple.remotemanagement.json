@@ -1,3 +1,8 @@
+```json
+---
+layout: null
+content_type: application/json
+---
 {
 "Servers": [
 {
@@ -6,3 +11,4 @@
 }
 ]
 }
+```
